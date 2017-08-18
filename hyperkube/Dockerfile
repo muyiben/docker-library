@@ -1,1 +1,1 @@
-FROM  gcr.io/google-containers/hyperkube-amd64:v1.7.3
+FROM  gcr.io/google-containers/hyperkube-amd64:v1.7.4
